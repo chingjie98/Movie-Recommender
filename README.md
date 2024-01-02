@@ -8,8 +8,8 @@ The algorithm used for this technique would be <strong>Euclidean distance</stron
 ![Capture3](https://github.com/chingjie98/Movie-Recommender/assets/35895182/4ff18a2b-5f10-4cc7-b60e-9178cefb6b08)
 
 
-For example, even just at a glance, Jessica and Stuart have very similar tastes as observed in the 3 common movies they have both watched:
-The Lord of the Ring, The Terminator and Star Wars. 
+For example, even just at a glance, <strong>Jessica</strong> and <strong>Stuart</strong> have very similar tastes as observed in the 3 common movies they have both watched:
+<strong>The Lord of the Ring</strong>, <strong>The Terminator</strong> and <strong>Star Wars</strong>. 
 
 ![Capture](https://github.com/chingjie98/Movie-Recommender/assets/35895182/1b4fde44-1c39-40c1-96eb-28e09fd82a8d)
 
