@@ -1,5 +1,5 @@
 # Movie-Recommender
-Build a machine learning algorithm to recommend movie to new and existing users.
+Build a machine learning algorithm to recommend movie to new and existing users.<br><br>
 The main technique used will be collaborative filtering assuming there are already existing users in the database.
 How this works is that users with similar interests as each other, will recommend movie that they rate highly where the other party has not watched the movie. 
 
