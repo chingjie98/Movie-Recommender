@@ -3,7 +3,7 @@ Build a machine learning algorithm to recommend movie to new and existing users.
 The main technique used will be collaborative filtering assuming there are already existing users in the database.
 How this works is that users with similar interests as each other, will recommend movie that they rate highly where the other party has not watched the movie. 
 
-The algorithm used for this technique would be Euclidean distance which is basically a Pythagoras Theorem with N dimension.
+The algorithm used for this technique would be <strong>Euclidean distance</strong> which is basically a Pythagoras Theorem with N dimension.
 
 ![Capture3](https://github.com/chingjie98/Movie-Recommender/assets/35895182/4ff18a2b-5f10-4cc7-b60e-9178cefb6b08)
 
