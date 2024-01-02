@@ -11,6 +11,6 @@ The algorithm used for this technique would be <strong>Euclidean distance</stron
 For example, even just at a glance, <strong>Jessica</strong> and <strong>Stuart</strong> have very similar tastes as observed in the 3 common movies they have both watched:
 <strong>'The Lord of the Ring'</strong>, <strong>'The Terminator'</strong> and <strong>'Star Wars'</strong>. 
 
-![Capture](https://github.com/chingjie98/Movie-Recommender/assets/35895182/1b4fde44-1c39-40c1-96eb-28e09fd82a8d)
+![Capture4](https://github.com/chingjie98/Movie-Recommender/assets/35895182/23e12940-2943-4f4d-97ef-b71bf3157731)
 
 Their euclidean distance can be computed as 
