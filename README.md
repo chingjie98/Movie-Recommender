@@ -14,3 +14,4 @@ For example, even just at a glance, <strong>Jessica</strong> and <strong>Stuart<
 ![Capture4](https://github.com/chingjie98/Movie-Recommender/assets/35895182/23e12940-2943-4f4d-97ef-b71bf3157731)
 
 Their euclidean distance can be computed as 
+![Capture5](https://github.com/chingjie98/Movie-Recommender/assets/35895182/16aed434-9d33-4387-93b3-f8f9afe113c7)
