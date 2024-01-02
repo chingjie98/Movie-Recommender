@@ -1,4 +1,16 @@
 # Movie-Recommender
-Build a machine learning algorithm to recommend movie to new and existing users. Both Collaborative &amp; Content based filtering.
+Build a machine learning algorithm to recommend movie to new and existing users.
+The main technique used will be collaborative filtering assuming there are already existing users in the database.
+How this works is that users with similar interests as each other, will recommend movie that they rate highly where the other party has not watched the movie. 
 
-Statistics will be used and explained clearly with my comments in my script. 
+The algorithm used for this technique would be Euclidean distance which is basically a Pythagoras Theorem with N dimension.
+
+![Capture3](https://github.com/chingjie98/Movie-Recommender/assets/35895182/4ff18a2b-5f10-4cc7-b60e-9178cefb6b08)
+
+
+For example, even just at a glance, Jessica and Stuart have very similar tastes as observed in the 3 common movies they have both watched:
+The Lord of the Ring, The Terminator and Star Wars. 
+
+![Capture](https://github.com/chingjie98/Movie-Recommender/assets/35895182/1b4fde44-1c39-40c1-96eb-28e09fd82a8d)
+
+Their euclidean distance can be computed as 
